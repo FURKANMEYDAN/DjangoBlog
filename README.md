@@ -1,2 +1,2 @@
 "# DjangoBlog" 
-"Django ile blog tasarmm" 
+"Django ile blog tasarÄ±mÄ±m" 
