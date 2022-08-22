@@ -1,4 +1,4 @@
-   #DjangoBlog Uygulaması(Python-Sıfırdan ileri seviye adlı Udemy kursundan alınmıştır)
+   ##DjangoBlog Uygulaması(Python-Sıfırdan ileri seviye adlı Udemy kursundan alınmıştır)
    Proje için yüklemeniz gereken modüller 
     
     pip install -r requirements.txt
